@@ -103,6 +103,10 @@ UC: if the monitoring level 1 can't resolve a problem, the L2 team can restart t
 
 BV: multiple level of monitoring allow for delegation in resolving incidents.
 
+## Compliance Jobs
+
+Check SELinux or folder permissions in check mode.
+
 ## Ansible development workflow with Gitlab
 
 UC: automation engineers want to write Ansible codes in an efficient way and quickly see the results of their changes in a "fail fast, improve faster" approach. By leveraging Gitlab and webhooks with AAP, developers can create a very efficient development workflow.
